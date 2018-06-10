@@ -5,4 +5,5 @@ O grupo
 ## Scrum master
 Nome dos voluntários
 
-## Dev Team.
+## Dev Team. <br>
+[Lucas Maciel](https://github.com/lucasmaciel1996) <br>
